@@ -11,10 +11,8 @@ from sklearn.metrics import ConfusionMatrixDisplay, RocCurveDisplay, PrecisionRe
 from sklearn.metrics import precision_score, recall_score
 
 def main():
-    #pass
     st.title("Binary Classification Web App")
-    st.sidebar.title("Binary Classification Web App")
 
 
-if __name__ == '__main__':
-    main
+
+
